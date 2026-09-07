@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu học phần Thiết kế Web</title>
+</head>
+<body>
+    <header>
+        <h1>Học phần Thiết kế Web</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Giới thiệu</h2>
+            <p>Học phần giúp sinh viên học <abbr title="HyperText Markup Language">HTML</abbr> và tạo trang web cơ bản.</p>
+            <p>Sinh viên cần <strong>thực hành thường xuyên</strong>, <em>tự viết mã</em> và chú ý <mark>đóng thẻ đầy đủ</mark>.</p>
+            <h3>Ví dụ mã HTML</h3>
+            <pre><code>&lt;section&gt;
+    &lt;h2&gt;Xin chào&lt;/h2&gt;
+    &lt;p&gt;Đây là trang web đầu tiên.&lt;/p&gt;
+&lt;/section&gt;</code></pre>
+        </section>
+        <section>
+            <h2>Cách đánh giá</h2>
+            <p>Ví dụ trọng số điểm quá trình: <del>30%</del> <ins>40%</ins>.</p>
+            <p>Điểm tổng kết = 0,4 × x<sub>1</sub> + 0,6 × x<sub>2</sub>.</p>
+            <p>Trong đó, x<sub>1</sub> là điểm quá trình, x<sub>2</sub> là điểm cuối kỳ.</p>
+            <p>Lịch học minh họa:<br>Thứ Hai: Học lý thuyết.<br>Thứ Tư: Thực hành.</p>
+</body>
+</html>
